@@ -1,0 +1,17 @@
+{
+  "id": "acode.plugin.pinchtozoom",
+  "name": "Pinch 2 Zoom",
+  "main": "dist/main.js",
+  "version": "2.2.2",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": [],
+  "keywords":["pinch zoom","zoom"],
+  "minVersionCode" : 290,
+  "price": 0,
+  "author": {
+    "name": "dev sourav",
+    "email": "sourav0chand@gmail.com",
+    "github": ""
+  }
+}
